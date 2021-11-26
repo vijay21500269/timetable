@@ -127,32 +127,32 @@ Execute the program
              <td>MONDAY</td>
              <td colspan="2">19EY701-soft skills</td>
              <td colspan="2">19MA221-linear algebra</td>
-	         <td>Mentoring</td>
-             <td colspan="2">maths for AI</td>
+	         <td>ECA051-ADMentoring</td>
+             <td colspan="2">19MA220-maths for AI</td>
           </tr>
           <tr>
              <td>TUESDAY</td>
-             <td colspan="2">web technology</td>
-             <td colspan="2">engineering mechanics</td>
+             <td colspan="2">19AI402-web technology</td>
+             <td colspan="2">19AI303-engineering mechanics</td>
              <th rowspan="4">LUNCHBREAK</th>
-             <td colspan="2">engineering design and modeling</td>
+             <td colspan="2">19AI302-engineering design and modeling</td>
          </tr>
          <tr>
   	     <td>WEDNESDAY</td>
-             <td colspan="2">Fundamentals of web technology</td>
-             <td colspan="2">maths for AI</td>
+             <td colspan="2">19AI401-Fundamentals of web technology</td>
+             <td colspan="2">19MA220-maths for AI</td>
              <td colspan="2">no class</td>
          </tr>
          <tr>
 	          <td>THURSDAY</td>
-             <td colspan="2">engineering design and modeling</td>
-             <td colspan="2">python programming</td>
-             <td colspan="2">engineering mechanics and product development</td>
+             <td colspan="2">19AI302-engineering design and modeling</td>
+             <td colspan="2">19AI301-python programming</td>
+             <td colspan="2">19AI303-engineering mechanics and product development</td>
          </tr> 
          <tr> 
 	          <td>FRIDAY</td>
-             <td colspan="2">fundamentals of web technology</td>
-             <td colspan="2">python programming</td>
+             <td colspan="2">19AI401-fundamentals of web technology</td>
+             <td colspan="2">19AI301-python programming</td>
              <td colspan="2">no class</td>
          </tr> 
          <tr> 
